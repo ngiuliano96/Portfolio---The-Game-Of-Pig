@@ -1,1 +1,3 @@
-# Browser version of popular dice game known as Pig. Currently version works on desktop. Mobile friendly version is WIP.
+# Browser version of Pig (dice game)
+
+Currently version works on desktop. Mobile friendly version is WIP.
